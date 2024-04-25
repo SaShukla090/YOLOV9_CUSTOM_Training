@@ -1,4 +1,8 @@
 *.pt
-/data
+*.png
+*.txt
+*.zip
+*.jpg
+*JPEG
 /data2
 /yolov9
