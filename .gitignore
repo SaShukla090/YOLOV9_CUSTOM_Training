@@ -1,0 +1,4 @@
+*.pt
+/data
+/data2
+/yolov9
